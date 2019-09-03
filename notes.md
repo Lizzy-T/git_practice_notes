@@ -22,6 +22,7 @@ git status
     git add notes.md
     -> stages this file (tracks changes)
     -> shorthand: git add .
+        - add mlpl files at one within the directory you are working
 
 5) git commit -m "..."
     -> saves
