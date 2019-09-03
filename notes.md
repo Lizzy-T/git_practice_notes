@@ -37,7 +37,7 @@ git status
     - if nothing is linke will be blank- main one is origian
     - origin is name of remote repo that lives in 
     
-8) to link to git hub
+8) to link to git hub (if not linked)
 - go to git hub and add a new repo
 - name repo
 - copy paste
